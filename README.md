@@ -26,8 +26,21 @@ Source code is maintained in a separate private repository.
 ## Search
 
 1. Type in `Search files...` to filter files in the opened folder tree.
-2. Results update automatically as you type, but folders containing many files may take some time.
+2. Results update automatically as you type.
 3. Click `Clear` to reset search and return to normal folder view.
+
+## Settings (Colors)
+
+1. Click `Settings`.
+2. Choose `Dot`, `Background`, and `Accent` colors.
+3. Click `Apply`.
+4. Your settings are saved and reused next time you open the app.
+
+## Zoom / Fit Behavior
+
+- The preview starts in **auto-fit** mode so images fit the preview area.
+- Clicking `-` or `+` switches to **manual zoom**.
+- Clicking `Fit` re-enables **auto-fit**.
 
 ## Export
 
