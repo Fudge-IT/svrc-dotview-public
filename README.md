@@ -26,7 +26,7 @@ Source code is maintained in a separate private repository.
 ## Search
 
 1. Type in `Search files...` to filter files in the opened folder tree.
-2. Results update automatically as you type.
+2. Results update automatically as you type, but folders containing many files may take some time.
 3. Click `Clear` to reset search and return to normal folder view.
 
 ## Export
